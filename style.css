@@ -1,0 +1,42 @@
+body{
+    background-color:rgb(250, 252, 230);
+    background-image: url("resource/dots.png");
+    background-size: 54%;
+border-style: groove;
+border-width:  12px;
+align-items: center;
+font-family:'Times New Roman';
+}
+h1{
+    text-align:center;
+    font-size: 100px;
+    font-style: normal;
+    color:rgb(6, 81, 56);
+}
+h3{
+    font-size: 25px;
+    font-style: normal;
+    color:rgb(107, 24, 39);
+    text-align: center;
+    font-family:'Georgia';  
+    
+      
+}
+img{
+    padding: 5%;
+    vertical-align: middle;
+    -webkit-box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+    
+}
+i{
+    text-align: center;
+    font-size: 15px;
+    font-style:italic;
+    color:rgb(10, 47, 75);
+    font-family:'Georgia';    
+}
+
+
+

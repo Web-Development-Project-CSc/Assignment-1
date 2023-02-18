@@ -1,0 +1,20 @@
+body{
+    background-color:rgb(250, 252, 230);
+    background-image: url("resource/dots.png");
+    background-size: 54%;
+    align-items: center;
+}
+
+img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+    -webkit-box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);
+box-shadow: 12px 29px 81px 0px rgba(0,0,0,0.75);    
+}
+
+
+
+
